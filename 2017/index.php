@@ -5,7 +5,7 @@ use \CODEVEMBER\Utility\Codevember as Codevember;
 
 /**
  * Created by PhpStorm.
- * User: phippler
+ * User: Patrick Hippler
  * Date: 05.10.2017
  * Time: 16:02
  */
