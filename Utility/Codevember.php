@@ -55,7 +55,7 @@ class Codevember
                   <iframe class="embed-responsive-item" src="'.$object->getFoldername().'"></iframe>
                 </div>
                 <hr>
-                <div class="card-body">
+                <div class="card-body py-3">
                                 ' . $object->getDescription() . '
                                 
                 <hr>
